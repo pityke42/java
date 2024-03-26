@@ -1,6 +1,6 @@
 package org.example.generics.extras.model;
 
-public class LPAStudent extends Student {
+public class LPAStudent extends Student implements QueryItem {
     private double percentComplete;
 
     public LPAStudent() {
