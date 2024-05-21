@@ -1,4 +1,4 @@
-package org.example.linkedlist;
+package org.example.list.linkedlist;
 
 import java.util.LinkedList;
 import java.util.ListIterator;

@@ -1,4 +1,4 @@
-package org.example.arraysAndArrayLists;
+package org.example.arrays.arraysAndArrayLists;
 
 import java.util.Arrays;
 import java.util.Comparator;

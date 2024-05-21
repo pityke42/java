@@ -1,4 +1,4 @@
-package org.example.arraylist.challange;
+package org.example.list.arraylist.challange;
 
 import java.util.*;
 
